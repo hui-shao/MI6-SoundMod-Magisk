@@ -1,0 +1,7 @@
+id=stereo_sound
+name=MI6出厂立体声
+version=v1.0
+versionCode=10
+author=浅蓝的灯
+description=适用于mi6(sagit)的官方出厂版本立体声音效
+minMagisk=2030
