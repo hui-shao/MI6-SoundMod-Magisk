@@ -1,6 +1,15 @@
-# MIUI_Stereo_Sound-Magisk
-Add stereo sound for MI 6(sagit)
+# MI6(sagit)-SoundMod-Magisk
 
-As is known,MIUI official has removed stereo sound from MI 6(sagit).
+A Magisk module to optimize sound effects for MI 6(sagit)
 
-This module will help you recover stereo sound by adding files to "/system/vendor".
+What the module will do:
+
+* insert these files to directory "/system/vendor/etc"
+
+```
+    mixer_paths_qvr.xml
+    mixer_paths_skuk.xml
+    mixer_paths_tasha.xml
+```
+
+**NOTE**: Tested on `MI 6(sagit),Android 9.0,MIUI 10/11` only.
