@@ -23,4 +23,4 @@ This module will:
 
 ### NOTE
 
-Tested on `MI 6(sagit),Android 9.0,MIUI 10/11` only.
+Tested on `MI 6(sagit),Android 9.0,MIUI 10/11/12` only.
